@@ -1,2 +1,2 @@
 # BCGameJam
-Hackathon game
+Hackathon Game, Polar Bear Jump 
