@@ -7,7 +7,9 @@ Polar Bear Jump - Play as a Polar Bear and save the Cubs. Educational facts for 
 Jumping, Moving Ground (Keep Background the Same), Animations, Obstacles (Simple Ones First, Then Higher Ones in Air), Make First Level (After This Works Completely, Move Onto Second Level), Background Details
 
 ## Level Differences
-First Level-> Horizontal Ice
-Second Level-> Ground Ascending/Descending
-Third Level-> Width of Ice Decreasing (Variable Size)
-Fourth Level-> Decrease Time 
+<ul>
+  <li>First Level-> Horizontal Ice</li>
+  <li>Second Level-> Ground Ascending/Descending</li>
+  <li>Third Level-> Width of Ice Decreasing (Variable Size)</li>
+  <li>Fourth Level-> Decrease Time</li>
+</ul>
